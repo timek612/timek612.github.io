@@ -2,12 +2,15 @@
     color: red;
 }
 body {
-    background-color: beige;
+    background-color: rgb(235, 215, 182);
     margin: 5% 20% 5% 10%;
     font-family: Georgia, 'Times New Roman', Times, serif
 }
 
-img {
+#img {
     border-radius: 10%;
 }
 
+#img_1{
+    border-radius: 25px;
+}
